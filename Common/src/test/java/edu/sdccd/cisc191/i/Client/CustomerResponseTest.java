@@ -1,4 +1,6 @@
-package edu.sdccd.cisc191.a;
+package edu.sdccd.cisc191.i.Client;
+
+import edu.sdccd.cisc191.i.CustomerResponse;
 
 import static org.junit.jupiter.api.Assertions.*;
 
