@@ -2,7 +2,7 @@ package edu.sdccd.cisc191.i.Server;
 
 public class Game {
     public java.util.ArrayList<Player> playerList;
-    public java.util.ArrayList<char> lettersGuessed;
+    public java.util.ArrayList<Character> lettersGuessed;
     public int currentGameMaster;
     public int currentPlayer;
 
